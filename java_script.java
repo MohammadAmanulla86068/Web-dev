@@ -1,1 +1,1 @@
-system.out.println('My javascript first version')
+system.out.println('My javascript second version')
